@@ -1,0 +1,45 @@
+Aaradhy Sharma
+as783@snu.edu.in 
++91 9501765089 
+LinkedIn 
+Aaradhy Sharma 
+Secunderabad, India 
+EDUCATION
+Shiv Nadar Institute of Eminence, 
+B.Tech Computer Science Engineering with Economics minor
+Aug 2022 – Aug 2026  |  Greater NoidaCGPA: 8.45
+DPS Jaipur 2020  |  Jaipur10th Grade Overall aggregate: 95%12th Grade Overall aggregate: 80%
+INTERNSHIPS
+DLRL, DRDO, Developer Intern Jun 2024 – Aug 2024  |  Hyderabad
+•Collaborated with Prof. Sahoo, 'F' Scientist at DLRL, contributed to enhancing the entity-recognition systems for defense documentation applications by over 60% within a three-month internship period.
+Shiv Nadar Institute of Eminence, Teaching Assistant Aug 2024 – present
+•Computer Organisation & Architecture, August 24 - December 24
+•Digital Image Processing, January 24 - Present
+The Habitats Trust, Software Developer Intern Dec 2024 – Feb 2025
+•Developed and optimized a bandpass filtering pipeline (300–800 Hz) in ODAS for precise tiger vocalization isolation, while implementing a cross-compilation workflow for seamless Windows deployment using Docker and GitHub Actions.
+FEL,MCEME, ML Dev Intern Jun 2024 – Aug 2024
+•Engineered an ML-driven solution for induction motor control in armored autonomous vehicles, in collaboration with Dr. Prashant Menghal, achieved significant advancements in motor responsiveness and automation increasing efficiency substantially by 72%.
+Zenerative Minds, Backend Python Developer Intern May 2024 – Aug 2024
+•Developed AI solutions, including YOLO v8, autodistil-based object recognition, and multilingual TTS using OpenAI's Whisper.
+Datachannel, AI Analyst Intern Jul 2024 – Aug 2024
+•Advanced beta-stage development at Datachannel.io  by designing and implementing decision tree analytics, optimizing integration with vector databases, and enhancing secure oAuth2.0 interactions.
+RESEARCH & PUBLICATIONS
+Performance Enhancement of Multiple Prefetchers in Many-Core systems 2023 – present
+•Chosen for the esteemed OUR 2024-25 program at Shiv Nadar University, conducting research to deepen academic and practical skills under the mentorship of Prof. Sheel Sindhu Manohar.
+•Researching performance enhancement of 80% over existing systems.
+MLDPBS: A Machine Learning based Dynamic Partitioning Buddy System for Efficient Memory Allocation in Embedded Systems, Published in 2024 IEEE 17th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC), Kuala Lumpur, Malaysia. DOI: 10.1109/MCSoC64144.2024.00051
+2023 – present
+•Pioneered a novel Machine Learning-based Dynamic Partitioning Buddy System (MLDPBS) for embedded systems memory management, achieving a 1.76× speedup over state-of-the-art buddy systems through predictive allocation and lock-free design, while optimizing memory allocation to achieve 1.5× and 200× improvement over First Fit and Best Fit methods, respectively, with zero fragmentation through an 82:16:2 partition ratio.
+PROJECTS
+EntityExtract Pro, GUI-based NER Tool for Document Analysis Jun 2024 – Aug 2024  |  Secunderabad
+•Implemented a powerful entity extraction system using SpaCyʼs NER, deployed at DLRL to enhance defense document analysis by over 60% with advanced NLP techniques from CRFs to transformers.
+Deepfake Detection using Deep Learning Mar 2024 – May 2024
+•Github Repo    
+• Engineered an advanced Python-based system for deepfake image detection using cutting-edge ML models (VGG-16, Inceptionv3, K-means, and PCA), setting new standards in digital media security.
+•Custom stack layer implementation achieved an 85% accuracy over a large dataset.
+AWARDS
+Start-A-Thonʼ24 , Winner, CSE Dept in association with AIC, SNIoE
+Runners up, Bridge to Bragging Rights, SCEE, DTU
+Runners Up, Smart India Hackathon, Smart India Hackathon
+SKILLS
+Python Web Dev Machine Learning AI Unity Deep Learning NER NLP Deep Learning RL
